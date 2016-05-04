@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: SB - MS Login Redirect
 	Plugin URI: www.StephenBurns.net
-	Description: Redirects user in a multisite environment to their specific primary blog. Code from aecnu at wpmudev.org, made into a plugin by Stephen Burns.
+	Description: Redirects user in a multisite environment to their specific primary blog. Original code post from aecnu at wpmudev.org.
 	Version: 1.0
 	Author: Stephen Burns
 	Author URI: http://www.StephenBurns.net/
@@ -27,7 +27,7 @@
 	
    	/* IMPORTANT NOTE: 
     	* Redirects user to their specific primary blog. Code from aecnu at wpmudev.org, made into a plugin by Stephen Burns.
-    	* 
+    	* Full URL:
     	* http://premium.wpmudev.org/forums/topic/how-to-redirect-user-to-their-subdomain-dashboard-when-signin-at-the-main-website*/
 ?>
 
