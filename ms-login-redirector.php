@@ -1,13 +1,34 @@
 <?php
-/*
-   Plugin Name: MS Login Redirector
-   Plugin URI: http://www.StephenBurns.net/
-   Description: Multisite ONLY - Redirects user to their primary blog after logging in. 
-   Version: 1.0
-   Author: Stephen Burns
-   Author URI: http://www.StephenBurns.net/
-   License: GPL2
-*/
+	/*
+	Plugin Name: SB - MS Login Redirect
+	Plugin URI: www.StephenBurns.net
+	Description: Redirects user in a multisite environment to their specific primary blog. Code from aecnu at wpmudev.org, made into a plugin by Stephen Burns.
+	Version: 1.0
+	Author: Stephen Burns
+	Author URI: http://www.StephenBurns.net/
+	License: GPL2
+	*/
+   	
+	/*  Copyright 2015 Stephen Burns  (email : Stephen@StephenBurns.net)
+	
+	 This program is free software; you can redistribute it and/or modify
+    	it under the terms of the GNU General Public License, version 2, as 
+    	published by the Free Software Foundation.
+	
+    	This program is distributed in the hope that it will be useful,
+    	but WITHOUT ANY WARRANTY; without even the implied warranty of
+    	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    	GNU General Public License for more details.
+	
+    	You should have received a copy of the GNU General Public License
+    	along with this program; if not, write to the Free Software
+    	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+	*/
+	
+   	/* IMPORTANT NOTE: 
+    	* Redirects user to their specific primary blog. Code from aecnu at wpmudev.org, made into a plugin by Stephen Burns.
+    	* 
+    	* http://premium.wpmudev.org/forums/topic/how-to-redirect-user-to-their-subdomain-dashboard-when-signin-at-the-main-website*/
 ?>
 
 <?php
